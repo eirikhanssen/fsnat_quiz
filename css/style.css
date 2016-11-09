@@ -1,0 +1,62 @@
+@media screen and (min-width: 30em) {
+    main {
+        background-color: white;
+        float: left;
+        display: block;
+        width: 100%;
+        padding-right: 11em;
+    }
+    aside.menu {
+        background-color: white;
+        width: 10em;
+        float: left;
+        margin-left: -10em;
+    }
+}
+
+.menu svg {
+    width: 2em;
+    height: 2em;
+    display: inline-block;
+    float: left;
+    margin-left: .25em;
+    margin-right: .25em;
+    transition: all 150ms ease-in;
+    transform: scale(1) translate(0,0);
+
+}
+
+.menu a:hover svg {
+	transform: scale(1.05) translate(-2.5%,-2.5%);
+}
+
+.menu li {
+    list-style-type: none;
+    padding-left: 0em;
+    height: 2em;
+    border-radius: .5em;
+    background-color: #fafafa;
+    border: 1px solid #f0f0f0;
+}
+
+.menu li + li {
+    margin-top: 2px;
+}
+
+.menu a {
+    display: block;
+}
+
+.menu a,
+.menu a span {
+    height: 2em;
+    line-height: 2em;
+}
+
+.menu ul {
+    padding: 0;
+}
+
+.pt.menu li {
+    padding-left: 2.5em;
+}

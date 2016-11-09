@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="fsnat_symbols"
+   version="1.1"
+   viewBox="0 0 100 100"
+   height="100"
+   width="100">
+   <defs
+      id="defs4528" />
+   <symbol
+      id="text_short"
+      viewBox="0 0 100 100">
+      <rect
+         y="0"
+         x="0"
+         height="100"
+         width="100"
+         id="rect6487"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="19"
+         x="27"
+         height="60"
+         width="46"
+         id="rect6467"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path6469"
+         d="M 32,27 H 68"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <use
+         transform="translate(0,8)"
+         height="100%"
+         width="100%"
+         id="use6471"
+         xlink:href="#path6469"
+         y="0"
+         x="0" />
+      <use
+         transform="translate(0,34)"
+         height="100%"
+         width="100%"
+         id="use6475"
+         xlink:href="#path6469"
+         y="0"
+         x="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 32,44 H 57"
+         id="path6483" />
+      <use
+         transform="translate(0,26)"
+         height="100%"
+         width="100%"
+         id="use6485"
+         xlink:href="#path6483"
+         y="0"
+         x="0" />
+   </symbol>
+   <symbol
+      id="text_long"
+      viewBox="0 0 100 100">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g7093"
+         id="use7095"
+         width="100%"
+         height="100%"
+         transform="translate(12.3,6.35)" />
+      <g
+         id="g7093">
+         <rect
+            y="15"
+            x="20"
+            height="60"
+            width="46"
+            id="rect-b-01"
+            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         <path
+            id="path-b-01"
+            d="M 25,23 H 61"
+            style="opacity:0.84;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         <use
+            transform="translate(0,5)"
+            height="100%"
+            width="100%"
+            id="useb6471"
+            xlink:href="#path-b-01"
+            y="0"
+            x="0" />
+         
+         <use
+            transform="translate(0,10)"
+            height="100%"
+            width="100%"
+            id="useb7069"
+            xlink:href="#path-b-01"
+            y="0"
+            x="0" />
+         
+         <use
+            transform="translate(0,15)"
+            height="100%"
+            width="100%"
+            id="useb7081"
+            xlink:href="#path-b-01"
+            y="0"
+            x="0" />
+         
+         <use
+            transform="translate(0,20)"
+            height="100%"
+            width="100%"
+            id="useb7071"
+            xlink:href="#path-b-01"
+            y="0"
+            x="0" />
+         
+         <use
+            transform="translate(0,25)"
+            height="100%"
+            width="100%"
+            id="useb7073"
+            xlink:href="#path-b-01"
+            y="0"
+            x="0" />
+         
+         <use
+            transform="translate(0,35)"
+            height="100%"
+            width="100%"
+            id="useb7079"
+            xlink:href="#path-b-01"
+            y="0"
+            x="0" />
+         
+         <use
+            transform="translate(0,40)"
+            height="100%"
+            width="100%"
+            id="useb7077"
+            xlink:href="#path-b-01"
+            y="0"
+            x="0" />
+         
+         <use
+            transform="translate(0,45)"
+            height="100%"
+            width="100%"
+            id="useb6475"
+            xlink:href="#path-b-01"
+            y="0"
+            x="0" />
+         
+      </g>
+   </symbol>
+   <symbol
+      viewBox="0 0 100 100"
+      id="words">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.288;marker:none;enable-background:accumulate"
+         id="rect5600"
+         y="13.3"
+         x="16.4"
+         ry="7.7"
+         rx="7.72"
+         height="72.7"
+         width="63.4"
+         transform="matrix(0.993,-0.114,0.16,0.987,0,0)" />
+      <text
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:28.105px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Semi-Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.362;marker:none;enable-background:accumulate"
+         xml:space="preserve"
+         id="text5604"
+         y="48.8"
+         x="22.2"
+         transform="matrix(0.999,-0.115,0.159,0.982,0,0)"><tspan
+           id="tspan5606"
+           y="48.8"
+           x="22.2"
+           style="stroke-width:2.362">Abc</tspan></text>
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 88.5,56.1 C 88.2,57.9 87,59 82.7,59.6 v 0 l -46.8,6 c -3.1,0.4 -5.2,3.2 -4.8,6.3 l 0.2,2.2 c 0.4,3.1 3.2,5.2 6.3,4.8 l 47.5,-6.1 c 3.1,-0.4 5.2,-3.2 4.9,-6.3 z"
+         id="use7185" />
+   </symbol>
+   <symbol
+      id="movies"
+      viewBox="0 0 100 100">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.03;enable-background:accumulate"
+         id="rect8512"
+         y="21.1"
+         x="21.1"
+         ry="0"
+         rx="0"
+         height="57.7"
+         width="57.7" />
+      <g
+         id="g7270"
+         transform="translate(0,2)">
+         <rect
+            width="9.74"
+            height="11"
+            rx="0"
+            ry="0"
+            x="40.1"
+            y="27.1"
+            transform="matrix(1,0,0.624,0.781,0,0)"
+            id="rect8514"
+            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.031;enable-background:accumulate" />
+         <rect
+            width="9.74"
+            height="11"
+            rx="0"
+            ry="0"
+            x="25.8"
+            y="27.1"
+            transform="matrix(1,0,0.624,0.781,0,0)"
+            id="use8518"
+            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.031;enable-background:accumulate" />
+         <rect
+            width="9.74"
+            height="11"
+            rx="0"
+            ry="0"
+            x="11.6"
+            y="27.1"
+            transform="matrix(1,0,0.624,0.781,0,0)"
+            id="use8520"
+            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.031;enable-background:accumulate" />
+      </g>
+      <g transform="translate(0,3)">
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.03;enable-background:accumulate"
+         id="circle8526"
+         r="1.2"
+         cy="25.8"
+         cx="25.1" />
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.03;enable-background:accumulate"
+         id="circle8528"
+         r="1.2"
+         cy="34.7"
+         cx="25.1" />
+      </g>
+      <g
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.844"
+         id="g8530"
+         transform="matrix(1.32,0,0,1.32,-770,-293)">
+         <path
+            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:accumulate"
+            id="path8532"
+            d="m 609,260 11,7 -11,7 z" />
+         <g
+            style="fill:#ffffff;stroke:#ffffff;stroke-width:0.844"
+            id="g8534"
+            transform="translate(-13.9,-1.79)">
+            <rect
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:accumulate"
+               id="rect8536"
+               y="261"
+               x="641"
+               height="15.6"
+               width="1.54" />
+            <rect
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:accumulate"
+               id="rect8538"
+               y="261"
+               x="647"
+               height="15.6"
+               width="1.54" />
+         </g>
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g7270"
+         id="use7350"
+         transform="scale(1,-1), translate(0,-65)" />
+   </symbol>
+   <symbol
+      id="earthworm"
+      viewBox="0 0 100 100">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(2.32,-1)"
+         id="use4420"
+         xlink:href="#rect5478"
+         y="0"
+         x="0" />
+      <g
+         id="g4454"
+         transform="translate(-0.716,-404)">
+         <use
+            x="0"
+            y="0"
+            xlink:href="#rect5478"
+            id="use4422"
+            transform="translate(0,400)"
+            width="100%"
+            height="100%" />
+         <g
+            transform="matrix(2.03,0,0,2.03,314,-1130)"
+            id="g5700">
+            <path
+               d="m -133,765 c -5,0 -11,3 -14,8 -3,4 -2,11 0,15 1,4 4,6 7,7 4,1 8,1 11,0 3,-1 5,-4 5,-7 -1,-2 -1,-3 -3,-4 -1,-2 -3,-4 -5,-5 -2,0 -4,-2 -6,-2 -2,0 0,2 1,3 1,1 3,3 5,4 1,1 2,2 2,4 0,1 -2,1 -4,2 -2,0 -4,0 -6,-2 -2,-2 -4,-8 -2,-11 1,-4 6,-5 9,-6 2,-1 4,1 3,2 -1,0 3,6 3,6 1,-1 1,1 2,3 1,2 3,5 5,6 3,1 5,1 8,1 2,0 2,-2 0,-2 -2,0 -4,-1 -5,-2 -1,-1 -3,-3 -4,-5 0,-2 -2,-3 0,-3 1,0 -1,-8 -2,-7 -1,0 -1,-2 -3,-3 -2,-1 -3,-2 -7,-2 z"
+               id="path5702"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ef9d9d;fill-opacity:1;fill-rule:nonzero;stroke:#c83737;stroke-width:0.422;marker:none;enable-background:accumulate" />
+            <path
+               d="m -129,772 c 1,-1 3,-2 5,-2 0,0 -1,0 -3,0 -2,1 -2,2 -2,2 z"
+               id="path5704"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;enable-background:accumulate" />
+            <path
+               d="m -122,777 c -1,1 -3,1 -4,2 0,0 1,0 2,-1 1,0 2,-1 2,-1 z"
+               id="use5706"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.5;marker:none;enable-background:accumulate" />
+            <path
+               d="m -131,765 c -1,0 -3,0 -6,1 0,1 -1,1 0,1 0,0 0,0 0,0 3,-1 5,-1 6,0 2,0 3,1 4,1 0,0 1,1 1,1 0,-1 0,-1 0,-1 -1,-1 -3,-2 -5,-3 z"
+               id="path5708"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+            <path
+               d="m -118,786 c -1,-1 -2,-2 -3,-4 0,0 0,-1 0,-1 0,0 0,0 0,1 1,1 3,2 3,3 1,1 3,2 3,2 1,0 1,0 1,0 0,0 -1,0 -1,0 0,0 -2,0 -3,-1 z"
+               id="use5710"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+            <path
+               d="m -127,784 c -1,-2 -3,-3 -6,-4 0,0 0,0 0,0 0,0 0,0 0,0 2,1 4,3 5,4 1,1 2,2 2,3 0,0 0,1 1,1 0,0 0,-1 0,-1 -1,-1 -1,-2 -2,-3 z"
+               id="path5712"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+         </g>
+      </g>
+   </symbol>
+   <symbol
+      id="quiz"
+      viewBox="0 0 100 100">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(2.32,-1)"
+         id="use4420q"
+         xlink:href="#rect5478"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(-0.659,3)"
+         id="use4424"
+         xlink:href="#rect5478"
+         y="0"
+         x="0" />
+      <text
+       x="28.3"
+       y="65.5"
+       id="text5726"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:72.005px;line-height:125%;font-family:'arial black';-inkscape-font-specification:'arial black, Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.18"><tspan
+         style="stroke-width:1.18"
+         x="28.3"
+         y="65.5"
+         id="tspan5728">?</tspan></text>
+      <path
+         d="m 27.8,53.2 -8.3,21.6 -5.8,-9.1 -3.5,3.5 9.7,9.9 14,-22 z"
+         id="path5730"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#00c200;fill-opacity:1;stroke:#00c200;stroke-width:2.989;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <rect
+         transform="rotate(53.7)"
+         ry="0"
+         y="-24.4"
+         x="82.3"
+         height="6.78"
+         width="30.8"
+         id="rect7425"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <use
+         transform="matrix(-1,0,0,1,149,0.002)"
+         height="100%"
+         width="100%"
+         id="use7427"
+         xlink:href="#rect7425"
+         y="0"
+         x="0" />
+   </symbol>
+   <symbol
+      id="investigate"
+      viewBox="0 0 100 100">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(2.32,-1)"
+         id="use_i_4420"
+         xlink:href="#rect5478"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(-0.659,3)"
+         id="use_i_4424"
+         xlink:href="#rect5478"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(112,4)"
+         id="use4426-4"
+         xlink:href="#rect5478"
+         y="0"
+         x="0" />
+      <ellipse
+         transform="rotate(49.9)"
+         ry="31.8"
+         rx="23"
+         cy="-2.61"
+         cx="52.4"
+         id="use7505"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         transform="rotate(48.6)"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="use7501"
+         cx="50.2"
+         cy="-1.27"
+         rx="19.7"
+         ry="27.2" />
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 52,49.9 c -3.9,4.5 10.2,26.4 15.9,33.4 5.8,6.9 8.7,4.8 9.9,4 1.1,-0.8 7.1,-6.8 7.1,-6.8 0,0 6,-7 6.7,-8.2 0.8,-1.1 3.1,-4.9 -4.3,-9.9 C 79.9,57.5 55.9,45.5 52,49.9 Z"
+         id="use7517" />
+      <path
+         id="path7599"
+         d="m 54.7,46.7 c 6.7,-9.8 8.9,-24 0.7,-30.7 0,0 6,2.9 6.6,12 0.6,9.1 -7.3,18.7 -7.3,18.7 z"
+         style="fill:#f9f9f9;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+   </symbol>
+   <symbol id="investigate_earthworm" viewBox="0 0 100 100">
+      <use xlink:href="#investigate"/>
+      <use xlink:href="#earthworm" transform="translate(25, 15), scale(0.5,0.4), skewX(-30)"/>
+   </symbol>
+   <!--
+      main menu icons:
+      text_short
+      text_long
+      investigate
+      words
+      snippets (not implemented)
+      todo (not implemented)
+      movies
+      quiz
+      
+      chapter icons:
+      earthworm
+      -->
+   <use xlink:href="#text_short"/>
+</svg>
