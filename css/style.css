@@ -66,14 +66,25 @@
 
 ul.thumblinks {
 	padding: 1em;
-	background-color: red;
+	background-color: #fafafa;
 	display: inline-block;
 	text-align: center;
+	position:relative;
+	margin-bottom: 0;
+
+}
+div.thumblinks.container {
+	positon:absolute;
+	margin: auto;
+	background-color: transparent;
+	text-align: center;
+	padding:0;
 }
 
 ul.thumblinks li {
 	list-style-type: none;
-	background-color: yellow;
+	background-color: white;
+	border: 1px solid #f0f0f0;
 	float: left;
 	margin: 1em;
 	transform: scale(1) translate(0,0);
@@ -93,9 +104,9 @@ ul.thumblinks li:hover {
 }
 
 ul.thumblinks li a img {
-	width: 8em; height: 6em; border: 1px solid gray; display: block;
+	width: 8em; height: 6em; border: 1px solid #aaa; display: block;
 }
 
 ul.thumblinks li a span {
-
+	font-weight: bold;
 }
