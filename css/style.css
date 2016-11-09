@@ -1,16 +1,19 @@
 @media screen and (min-width: 30em) {
     main {
-        background-color: white;
+        background-color: transparent;
         float: left;
         display: block;
         width: 100%;
         padding-right: 11em;
+        position: relative;
+        z-index: 0
     }
+    	aside {position: relative; z-index: 1;}
     aside.menu {
         background-color: white;
         width: 10em;
         float: left;
-        margin-left: -10em;
+        margin-left: -10.5em;
     }
 }
 
@@ -59,4 +62,40 @@
 
 .pt.menu li {
     padding-left: 2.5em;
+}
+
+ul.thumblinks {
+	padding: 1em;
+	background-color: red;
+	display: inline-block;
+	text-align: center;
+}
+
+ul.thumblinks li {
+	list-style-type: none;
+	background-color: yellow;
+	float: left;
+	margin: 1em;
+	transform: scale(1) translate(0,0);
+	transition: all 250ms ease-in-out;
+
+}
+
+ul.thumblinks li a {
+	width: 10em;
+	padding: 1em;
+	margin:0;
+	display: inline-block;
+	
+}
+ul.thumblinks li:hover {
+	transform: scale(1.05) translate(0%,0%);
+}
+
+ul.thumblinks li a img {
+	width: 8em; height: 6em; border: 1px solid gray; display: block;
+}
+
+ul.thumblinks li a span {
+
 }
