@@ -95,7 +95,8 @@ ul.thumblinks li {
 }
 
 ul.thumblinks li a {
-    width: 10em;
+    width: 16em;
+    min-height: 16em;
     padding: 1em;
     margin: 0;
     display: inline-block;
@@ -106,14 +107,19 @@ ul.thumblinks li:hover {
 }
 
 ul.thumblinks li a img {
-    width: 8em;
-    height: 6em;
+    width: 100%;
+    height: auto;;
     border: 1px solid #aaa;
     display: block;
 }
 
 ul.thumblinks li a span {
     font-weight: bold;
+    position: absolute;
+    left:0;
+    right:0;
+    bottom: 0.75em;
+    font-size: 2em;
 }
 
 figure {
