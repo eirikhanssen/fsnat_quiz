@@ -137,6 +137,11 @@ figure img {
 
 }
 
+figure iframe {
+    width: 100%;
+    
+}
+
 figure small {
     font-weight: bold;
     margin-bottom: 1em;
