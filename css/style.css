@@ -173,3 +173,44 @@ figcaption {
 }
 
 figure + figure {margin-top: 2em;}
+
+fieldset section {
+width: 45%;
+float:left;
+margin-left: 2.5%;
+margin-right: 2.5%;
+min-width: 13em;
+max-width: 20em;
+border: 1px solid #aaa;
+border-radius: .5em;
+box-sizing: border-box;
+padding: .5em;
+}
+
+fieldset section p {
+    font-size: 1.25em;
+}
+fieldset section label {
+    display:block;
+    padding: 0.5em 1em;
+    padding-left: 1em;
+}
+
+fieldset section label:hover, fieldset section label:focus {
+    background-color:rgb(255,255,200);
+}
+
+fieldset section label input {
+    float:left;
+    position: relative; left: -.5em;
+
+}
+
+fieldset {
+	counter-reset: section;
+}
+
+p.q::before {
+	counter-increment: section;
+	content: counter(section) ". ";
+}
