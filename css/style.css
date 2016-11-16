@@ -175,16 +175,17 @@ figcaption {
 figure + figure {margin-top: 2em;}
 
 fieldset section {
+    position:relative;
 width: 45%;
 float:left;
-margin-left: 2.5%;
-margin-right: 2.5%;
+
 min-width: 13em;
 max-width: 20em;
 border: 1px solid #aaa;
 border-radius: .5em;
 box-sizing: border-box;
 padding: .5em;
+margin: .5em;
 }
 
 fieldset section p {
@@ -197,7 +198,7 @@ fieldset section label {
 }
 
 fieldset section label:hover, fieldset section label:focus {
-    background-color:rgb(255,255,200);
+    background-color:rgba(255,255,150,0.5);
 }
 
 fieldset section label input {
@@ -214,3 +215,18 @@ p.q::before {
 	counter-increment: section;
 	content: counter(section) ". ";
 }
+
+fieldset section img {
+    /*position:absolute;
+    width: 30%;
+    height: auto;
+    top:0;
+    bottom:0;
+    right:0;
+    margin:auto;
+    margin-right: 1em;
+    z-index: -1;*/
+    display:block;
+    width: 100%;
+    height: auto;
+    }
