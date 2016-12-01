@@ -87,7 +87,7 @@ div.thumblinks.container {
 ul.thumblinks li {
     list-style-type: none;
     background-color: white;
-    border: 1px solid #f0f0f0;
+    border: 1px solid #444;
     float: left;
     margin: 1em;
     transform: scale(1) translate(0, 0);
