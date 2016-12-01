@@ -52,7 +52,7 @@ var quiz_01_fortelling = [
 var quiz_01_natur = [
 	{
 	"q":"Se på bildet av krokus og humla. Hva er det gule støvet?",
-	img:"http://verdalsbilder.no/cpg1410/albums/userpics/10004/Innsekt_-_bie_paa_krokus_i_april.JPG",
+	img:{src:"http://verdalsbilder.no/cpg1410/albums/userpics/10004/Innsekt_-_bie_paa_krokus_i_april.JPG"}, alt:"Ei hårete humle går rundt midt i en lilla blomst som har gule arr. Humla er dekket med gult støv.",
 	right:["Blomsterstøv (pollen)"],
 	wrong:["Maling","Mel"]
 	},
@@ -112,6 +112,17 @@ function resetBody() {
 }
 
 function getQuestion(current_question_set, sequence_number) {
+	function hasImage() {
+		return(current_question_set.img !== undefined);
+	}
+	function getQuestionImage() {
+		var image = document.createElement('img');
+		image.setAttribute('src',current_question_set.img.src);
+		var alt = current_question_set.img.alt || "";
+		image.setAttribute('alt', alt);
+		return image;
+	}
+
 	console.log(current_question_set.img);
 	var fieldset = document.createElement('fieldset');
 	fieldset.id="q" + sequence_number;
@@ -121,6 +132,9 @@ function getQuestion(current_question_set, sequence_number) {
 	question.innerHTML=current_question_set.q;
 
 	fieldset.appendChild(question);
+	if(hasImage()) {
+		fieldset.appendChild(getQuestionImage());
+	}
 	return fieldset;
 }
 
