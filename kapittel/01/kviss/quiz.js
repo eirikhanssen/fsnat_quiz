@@ -126,12 +126,8 @@ function getQuestion(current_question_set, sequence_number) {
 	console.log(current_question_set.img);
 	var fieldset = document.createElement('fieldset');
 	fieldset.id="q" + sequence_number;
-	fieldset.innerHTML = '<label>' + (sequence_number+1)+ '</label>';
-	var question = document.createElement('p');
-	question.setAttribute('class','question');
-	question.innerHTML=current_question_set.q;
+	fieldset.innerHTML = '<label class="question">' + current_question_set.q + '</label>';
 
-	fieldset.appendChild(question);
 	if(hasImage()) {
 		fieldset.appendChild(getQuestionImage());
 	}
